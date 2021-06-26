@@ -1,5 +1,6 @@
+
 # infrastructure-validation
-Validation of infrastucture after successful provisiong.
+Validation of infrastucture after successful provisiong with Ansible connection, can use multiple connection types for more info refer testinfra documentation, in this repo consuming Ansible connection to ssh on nodes/hosts.
 
 **Pre-reqs:**
 1. Install Ansible.
